@@ -1,0 +1,6 @@
+Revision history for Perl extension POEx::IKC::Queue.
+
+0.00_01  Sat Mar 20 23:23:49 2010
+	- original version; created by h2xs 1.23 with options
+		-A -B -X -n POEx::IKC::Queue
+

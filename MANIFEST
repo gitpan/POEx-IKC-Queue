@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/POEx-IKC-Queue.t
+lib/POEx/IKC/Queue.pm
+META.yml                                 Module meta-data (added by MakeMaker)
